@@ -18,7 +18,7 @@ background-repeat: no repeat;
 }}
 
 [data-testid="stSidebar"]{{
-background-image: url("https://img.freepik.com/free-vector/network-mesh-wire-digital-technology-background_1017-27428.jpg?w=360");
+background-image: url("https://w0.peakpx.com/wallpaper/180/958/HD-wallpaper-black-plain.jpg");
 background-size: cover;
 background-repeat: no repeat;
 }}
